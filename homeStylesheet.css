@@ -1,0 +1,52 @@
+/* body{
+    background-color: #faf2e9;
+} */
+.Home{
+    height: 100hv;
+    background-image: url(../W01D05-HW/homeimggg.png);
+    text-align: center;
+}
+p{
+    font-size: 50px;
+    color: #ff6955;
+    
+}
+ .butn {
+     font-size: 30px;
+     color: white;
+    background-color: #f8bf66;
+padding: 20px 50px;
+border: none;
+margin-top: 20px;
+
+}
+#form{
+text-align: left;
+font-size: 30px;
+color: rgb(141, 180, 115);
+}
+input[type=text],textarea {
+    width: 30%;
+    padding: 20px 30px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(253, 238, 211);
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+ 
+
+#container {   
+overflow: hidden;
+background-color: #929b92;
+width: 100%;
+}
+#container a{
+   float: center;
+   color: wheat;
+   font-size: 50px;
+   padding: 14px 16px;
+}
+#container a:hover{
+   background-color: #f8bf66;
+}
