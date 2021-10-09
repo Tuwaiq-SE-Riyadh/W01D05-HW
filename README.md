@@ -1,6 +1,6 @@
 # Online Store
 Create online store withe following requirements:
-## HTML
+## HTML 🎉
 - Create a homepage for your store.✅
 - Create at least 2 other pages (this could include pages such as “about us”, “meet the team”, “shipping details”, etc).✅
 - Additionally, your site must have a catalogue page which lists the items which are for sale.✅
@@ -16,8 +16,8 @@ Create online store withe following requirements:
     - At least one quote/testimonial (this could be from a previous customer or a review).✅
 
 
-## CSS
-- Within the entirety of your site, you should have the following styling: :tada:
+## CSS 🎉
+- Within the entirety of your site, you should have the following styling:
     - Use either Grid OR flex or both of them to organize your products✅
     - At least 3 font styles with different colouring effects.✅
     - Padding for all images and buttons.✅
@@ -29,9 +29,9 @@ Create online store withe following requirements:
     - Apply a colour ﬁlter to at least 2 images.✅
 
 ## Bonus
-- Clicking on an item should allow the user to see more details about the item, such as a brief description,.specifications and price
-- Animate background colours to change between different variants of colours (a bit of Googling here will help you).
-- Animate item images to expand when hovered over (or clicked on if you prefer).
-- The website should be responsive.
+- Clicking on an item should allow the user to see more details about the item, such as a brief description,.specifications and price ⌚ 💡
+- Animate background colours to change between different variants of colours (a bit of Googling here will help you). ⌚ 💡
+- Animate item images to expand when hovered over (or clicked on if you prefer). ⌚ 💡
+- The website should be responsive. ⌚ 💡
 
 #### *Note: Feel free to reuse any HTML that you have created earlier in this Bootcamp.*
