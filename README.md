@@ -1,5 +1,5 @@
-# Online Store
-Create online store withe following requirements:
+# Online Store - SMART Tech
+requirements:
 ## HTML
 - Create a homepage for your store.
 - Create at least 2 other pages (this could include pages such as “about us”, “meet the team”, “shipping details”, etc).
@@ -14,7 +14,6 @@ Create online store withe following requirements:
     - At least one submit button form (possibly to simulate a login - don’t worry about the functionality of this yet).
     - At least one radio button form (you could select different kinds of shipping methods to your location).
     - At least one quote/testimonial (this could be from a previous customer or a review).
-
 
 ## CSS
 - Within the entirety of your site, you should have the following styling:
@@ -34,4 +33,22 @@ Create online store withe following requirements:
 - Animate item images to expand when hovered over (or clicked on if you prefer).
 - The website should be responsive.
 
-#### *Note: Feel free to reuse any HTML that you have created earlier in this Bootcamp.*
+# Screenshots
+
+## Homepage 
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/homepage.png?raw=true)
+
+## Products
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/prodects.png?raw=true)
+
+## Support
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/Support.png?raw=true)
+
+## AboutUs
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/AboutUs.png?raw=true)
+
+
+
+
+
+
