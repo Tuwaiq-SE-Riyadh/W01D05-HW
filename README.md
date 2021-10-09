@@ -39,13 +39,13 @@ requirements:
 ![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/homepage.png?raw=true)
 
 ## Products
-![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/prodects.png =350x350)
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/prodects.png?raw=true)
 
 ## Support
-![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/Support.png?raw=true =350x350)
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/Support.png?raw=true)
 
 ## AboutUs
-![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/AboutUs.png?raw=true =350x350)
+![alt text](https://github.com/ManalAlzeer/W01D05-HW/blob/master/Screenshots/AboutUs.png?raw=true)
 
 
 
