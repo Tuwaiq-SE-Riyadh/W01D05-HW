@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(205, 181, 144);
+
+}
+h1{
+    text-align: center;
+                font-size: 40px;
+                color: rgb(84, 105, 84);
+                font-family: 'Dancing Script', cursive;
+}
+.grid-container {
+    display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 50px;
+        row-gap: 50px;
+        padding: 30px;
+        margin: 10px 30px 10px 30px;
+    }
+    .home img{
+        
+         width: 300px;
+         height: 300px;
+       border-style:solid;
+
+       }
+       .home p {
+        text-align: center;
+        font-size: 16px;
+        color: rgb(1, 16, 33);
+    }
+    .home h2{
+        
+        text-align: center;
+        color:rgb(84, 105, 84);
+        font-size: 20px;
+    }

@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+
+    }
+    body{
+        background-color: rgb(205, 181, 144);
+    }
+    
+    .home{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://i.pinimg.com/564x/19/fd/53/19fd537f58735b535acc3c9b9e012ca4.jpg);
+    text-align: center;
+    color: #fff;
+    height: 100vh;
+    background-size:100% 100%; 
+   
+    }
+    .home h1{
+        padding-top: 17%;
+        
+        color:wheat;
+        font-size: 50px;
+    }
+    .home p{
+        font-family: 'Dancing Script' , cursive;;
+        font-size: 120%;
+        color:rgb(152, 152, 136);
+    }
+    .button{
+        border: 1px solid #fff;
+         padding: 10px 20px;
+          color: black;     
+
+    }
+    
+    ul{
+
+        float: right;
+        list-style-type: none;
+        
+        }
+        ul li{
+        
+        display: inline-block;
+        }
+        ul li a{
+        
+            text-decoration: none;
+            color: wheat;
+            padding: 5px 20px;
+            border: 1px solid #fff;
+            transition: 0.6s ease;
+        }
+        ul li a:hover{
+            background-color:white;
+            color:wheat;
+        }
+        ul li.active a{
+            background-color:white;
+            color: wheat;
+        }
+        div#container {
+            display: flex;
+            flex-direction: row;
+            justify-content:center;
+            
+            }
+         
+            .home1 img{
+             padding: 20px;
+              width: 300px;
+              height: 300px;
+            border-radius: 50%;
+
+            }
+            .home1 p {
+                text-align: center;
+                font-size: 120%;
+                color: rgb(231, 225, 214);
+            }
+            .home1 h2{
+                text-align: center;
+                font-size: 25px;
+                color: rgb(84, 105, 84);
+                font-family: 'Dancing Script', cursive;
+            }
+            a {
+                color: rgb(33, 68, 29);
+              }
+              p{
+                
+                font-size: 15px;
+                color: rgb(84, 105, 84);
+                font-family: 'Dancing Script', cursive;}
