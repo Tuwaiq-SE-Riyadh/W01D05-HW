@@ -1,0 +1,149 @@
+.container {
+    background-color: rgb(241, 234, 234) ;
+    display: grid;
+    grid-template-columns:100%;
+    grid-template-rows: 1fr;
+    align-items: center;
+    width: 95%;
+    margin: 3px;
+    margin-left:25px;
+    height: 100%;
+    width:80pc;
+    font-size: 22px;
+
+}
+navbar{
+   width: 95%;
+   height: 90px;
+   padding: 30px;
+   display: flex;
+   flex-direction: row;
+   justify-content:space-between;
+   align-items: center;
+   background-color: rgba(224, 223, 222, 0.041);
+
+}
+
+  .product1 {
+    background-color: rgba(238, 240, 232, 0.082) ;
+      display: grid;
+      grid-template-columns: 60vh 60vh 60vh;
+      grid-template-rows: auto;
+      grid-gap:50px;
+      padding: auto;
+      margin-top: 40px;
+      
+  }
+
+    
+.card {
+    margin-bottom: 30px;
+    padding: 9px;
+    margin-right: 15px;
+    margin-left: 20px; 
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+  }
+  
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+button:hover{
+    background-color: blueviolet;
+}
+
+.login{
+    text-align: center;
+    font-size: 18px;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    background-color: rgba(233, 213, 188, 0.377);
+    padding-top: 15px;
+    padding-bottom:15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2);
+
+
+   
+}
+.textH{
+    margin: auto;
+    text-align: center;
+    text-shadow:0 4px 20px ;
+
+}
+
+.about{
+    font-family: 'Times New Roman', Times, serif;
+     text-align: center; 
+     font-size: 18px; 
+     box-shadow: 0 4px 16px 0 rgba(0,0,0,0.2);
+    
+}
+.quote1{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+}
+.quote {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0
+  }
+  
+  .quote::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .quote img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .quote span {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+
+
+
+  
+  ul {
+    text-align: left;
+    list-style-type: circle;
+  }
+  #svg-filter { display: none; }
+
+  .imgF { display: block; width: 90%; }
+  
+  .imgF {
+    -webkit-filter: url(#svg-blur);
+  }
+  
+
