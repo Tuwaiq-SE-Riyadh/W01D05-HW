@@ -22,9 +22,18 @@
     align-content: center;
     column-gap: 1rem;
 }
-btnAdd{
+.btnAdd{
     transition: transform .2s;
+    
 }
+
+.btnColor{
+    background: url("YourPng.com1400x700.png");;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(8, 8, 8);
+}
+
 .btnAdd:hover{
     transform: scale(1.1);
 }
