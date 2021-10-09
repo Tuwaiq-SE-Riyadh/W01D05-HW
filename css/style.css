@@ -409,15 +409,14 @@ header a:hover{
 
 
 
- /* @media(max-width:768px){ */
-    /* header #namestore,
+ @media(max-width:768px){ 
+     header #namestore,
     header nav,
     header nav li ,
-    #boxes .box
-    {
+    #boxes .box{
+    
         float:none;
         text-align: center;
-        width:100%; */
-    /* }  */
-
- /* } */ 
+        width:100%; 
+    }
+}
