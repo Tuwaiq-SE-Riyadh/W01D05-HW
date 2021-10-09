@@ -1,18 +1,3 @@
-/* - Within the entirety of your site, you should have the following styling:
-
-DONE!!:
-- Use either Grid OR flex or both of them to organize your products
-- At least 3 font styles with different colouring effects.
-    - Padding for all images and buttons.
-    - Borders for all images and tables.
-
-
-
-    - Background colours/images for all pages.
-    - All tables must have customised formatting (colours, layout, etc).
-    - Center all content, with the exception of multiple row items being equally padded around the centre.
-    - All lists must be customised.
-    - Apply a colour ﬁlter to at least 2 images. */
 body{
     background-image: url('Background/background3.jpg');
     background-size: 100% 100%;
@@ -27,6 +12,8 @@ img{
     height: 300px;
     padding: 1px;
     border:2px;
+    filter: brightness(110%);
+    filter: grayscale(20%);
 }
 img.imgCatogray{
     width: 100px;
@@ -42,7 +29,7 @@ img#shopping{
     height: 300px;
     width: 1000px;
     border-radius: 40px;
-    margin: 2% 3% 2% 25%;
+    margin: 2% 3% 2% 15%;
     display:flex;
     flex-direction: row;
     justify-content: center;
@@ -51,6 +38,18 @@ img#shopping{
     font-family:fantasy;
     font-weight: bold;
     color: rgb(209, 212, 198);
+}
+#suggestion{
+    background-color: rgb(158, 160, 150);
+    background-size: 100% 400px;
+    height: 200px;
+    width: 500px;
+    border-radius: 40px;
+    margin: 2% 3% 2% 30%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .catogray{
     display:flex;
@@ -69,7 +68,7 @@ h2,p,#layout,#Order,th,td{
 form,#Order,#layout{
     font-size:30px;
 }
-h2,th,td{
+h2,th,td,.customer{
     font-size:40px;
     color: rgb(75, 78, 59);
 }
@@ -193,7 +192,7 @@ ul li{
 }
 
 /* Shipping Page style */
-#layout,.table{
+#layout,.table,.customer{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -217,6 +216,19 @@ ul li{
 }
 table, th, td {
     align-items: center;
-    width: 30%;
     border: 1px solid rgb(51, 63, 59);
   }
+.Review {
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0
+}
+.Review img {
+    float: left;
+    margin-right: 20px;
+    width: 90px;
+    height: 90px;
+}
+ 
