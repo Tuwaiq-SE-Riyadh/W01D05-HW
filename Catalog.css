@@ -1,3 +1,4 @@
+
 body{
     background-color: rgb(205, 181, 144);
 
@@ -15,6 +16,7 @@ h1{
         row-gap: 50px;
         padding: 30px;
         margin: 10px 30px 10px 30px;
+        
     }
     .home img{
         
